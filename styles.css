@@ -677,6 +677,7 @@ body {
     width: 100%;
     border-radius: 50%;
     margin-bottom: 15px;
+        height: 400px;
 }
 
 .team-card .title {
@@ -696,6 +697,7 @@ body {
     justify-content: center;
     gap: 15px;
 }
+
 
 .team-card .social-list a {
     font-size: 1.2rem;
